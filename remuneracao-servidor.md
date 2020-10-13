@@ -1,12 +1,24 @@
 # Remuneração de Servidor
 
-## Tarefas
+#### 1. Objetivo da tarefa
+Remuneração do servidor João Soares nos últimos 3 anos
 
-1- Encontre no Portal da Transparência do Estado de Minas Gerais a remuneração do servidor xxxx dos últimos 5 anos.   
- 
-**Pontos a destacar:**   
-a) O usuário não sabe em qual órgão e Poder o servidor trabalha;
+**Cenário da Tarefa**
+
+Com o objetivo verificar a evolução salarial de um determinado servidor, Ronaldo quer saber quais foram a remuneração do  João Soares nos últimos 3 anos
+
+**Pontos de destaque**
+
+* O usuário não sabe em qual órgão e Poder o servidor trabalha;
 
 
 
-2- Encontre nome e remuneração dos Secretários de Estado da Saúde desde da vigência da Lei Federal 12.527/2011.
+#### 2. Objetivo da tarefa
+Relação dos Secretários de Estado da Saúde
+
+**Cenário da Tarefa**
+
+Fernando quer saber quais foram Secretários de Estado da Saúde os últimos 10 anos e qual a remuneração paga a cada um incluindo as bonificações tipo jetons
+
+**Pontos de destaque**
+

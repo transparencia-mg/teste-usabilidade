@@ -12,8 +12,8 @@ As tarefas listadas são problemas reais coletados por meio da ferramenta fale c
 
 ## Template para registros das tarefas
 
-* Assunto da Tarefa
-* Tarefa
+* Objetivo da tarefa
+* Cenário da Tarefa
 * Pontos de destaque
 
 ### Referências
